@@ -1,3 +1,8 @@
+<img width="814" height="534" alt="image" src="https://github.com/user-attachments/assets/a4157f43-40d7-469c-8cb9-461f319cd6c7" />
+
+
+
+
 # 🔪 Node Knife - Limpador de node_modules
 
 > *"Porque ninguém merece ter 50GB de node_modules ocupando o HD"*
