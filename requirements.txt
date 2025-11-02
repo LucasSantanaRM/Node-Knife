@@ -1,0 +1,20 @@
+# Node Knife - Requirements
+# 
+# Na real, esse script só usa bibliotecas que já vem com o Python
+# Mas deixei esse arquivo aqui pra ficar mais profissional né kkk
+#
+# Se quiser instalar mesmo assim:
+# pip install -r requirements.txt
+
+# Bibliotecas padrão do Python (não precisa instalar nada)
+# - os
+# - shutil  
+# - threading
+# - concurrent.futures
+# - queue
+# - time
+# - datetime
+
+# Se um dia eu adicionar alguma lib externa, vai aparecer aqui:
+# requests>=2.25.0
+# colorama>=0.4.0
